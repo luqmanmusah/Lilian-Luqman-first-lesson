@@ -3,3 +3,4 @@
 
 # Ada Library Information
 *.ali
+*This file should be ignored*
